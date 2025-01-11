@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/status-en%20développement-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-> **Note**: Cette application est actuellement en développement actif. De nouvelles fonctionnalités sont ajoutées régulièrement.
+> **Note**: Cette application est actuellement en développement actif. De nouvelles fonctionnalités sont ajoutées régulièrement. Toujours en cours ... N'hesitez pas à contribuer ...
 
 ## 📖 À propos
 
@@ -15,7 +15,7 @@ Wellness Assistant est une application de chatbot intelligente conçue pour acco
 
 ### 🎯 Vision du Projet
 
-Notre objectif est de créer un assistant virtuel accessible et bienveillant qui aide chacun à prendre soin de sa santé physique et mentale au quotidien.
+L'objectif est de créer un assistant virtuel accessible et bienveillant qui aide chacun à prendre soin de sa santé physique et mentale au quotidien.
 
 ## ✨ Fonctionnalités Principales
 

@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-0.1.0--alpha-blue)
 ![Status](https://img.shields.io/badge/status-en%20développement-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Free-green)
 
 > **Note**: Cette application est actuellement en développement actif. De nouvelles fonctionnalités sont ajoutées régulièrement. Toujours en cours ... N'hesitez pas à contribuer ...
 

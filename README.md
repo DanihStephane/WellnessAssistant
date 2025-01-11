@@ -10,6 +10,9 @@
 
 Wellness Assistant est une application de chatbot intelligente conçue pour accompagner les utilisateurs dans leur parcours de bien-être quotidien. Grâce à une interface moderne et intuitive, elle offre un suivi personnalisé et des conseils adaptés pour améliorer votre qualité de vie.
 
+![Capture d’écran du 2025-01-11 21-48-15](https://github.com/user-attachments/assets/328fe455-1b55-40f9-bd1f-e95b37f540f3)
+
+
 ### 🎯 Vision du Projet
 
 Notre objectif est de créer un assistant virtuel accessible et bienveillant qui aide chacun à prendre soin de sa santé physique et mentale au quotidien.
@@ -114,6 +117,6 @@ Pour toute question ou suggestion, n'hésitez pas à :
 
 **🚧 Projet en Développement Actif 🚧**
 
-_Dernière mise à jour : Mars 2024_
+_Dernière mise à jour : Janvier 2025_
 
 </div>

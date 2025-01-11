@@ -92,7 +92,7 @@ wellness-assistant/
 
 ## 🤝 Contribution
 
-Le projet est actuellement en développement actif et nous accueillons toute contribution ! Voici comment vous pouvez participer :
+Le projet est actuellement en développement actif et j'accueille toute contribution ! Voici comment vous pouvez participer :
 
 1. Fork le projet
 2. Créez votre branche (`git checkout -b feature/AmazingFeature`)

@@ -102,14 +102,12 @@ Le projet est actuellement en développement actif et nous accueillons toute con
 
 ## 📝 License
 
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
+ `LICENSE` free: https://github.com/DanihStephane.
 
 ## 📞 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à :
-- Ouvrir une issue
-- Contacter l'équipe de développement
-- Rejoindre notre communauté
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/danihstephane/
 
 ---
 

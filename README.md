@@ -46,7 +46,7 @@ Notre objectif est de créer un assistant virtuel accessible et bienveillant qui
 
 ```bash
 # Cloner le repository
-git clone [url-du-repo]
+git clone git@github.com:DanihStephane/WellnessAssistant.git
 
 # Installer les dépendances
 npm install
